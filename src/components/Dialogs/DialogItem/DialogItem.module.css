@@ -1,0 +1,22 @@
+.item {
+    margin-bottom: 10px;
+}
+
+
+
+.item a:visited{
+    color: white;
+    text-decoration: none;
+}
+
+.item a:link{
+ 
+    text-decoration: none;
+}
+
+
+.item.active{
+    text-decoration: underline;
+}
+
+

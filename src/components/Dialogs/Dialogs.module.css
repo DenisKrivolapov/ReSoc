@@ -1,0 +1,22 @@
+.Dialogs{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.DialogItems{
+    padding: 10px 40px 10px 10px;
+    border-right: 1px solid black;
+   
+}
+
+.usersInput{
+    margin-top: 4em;
+    margin-left: 0.5em;
+    float: left;
+}
+
+.inputButton{
+
+    display: inline-block;
+};
+ 

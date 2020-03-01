@@ -1,0 +1,15 @@
+.create_post{
+    border-radius: 2px;
+    display: inline-block;
+    margin-bottom: 20px;
+
+}
+
+.item img{
+    width: 80px;
+    border-radius: 80%;
+}
+
+.postsInfo{
+    padding: 20px;
+}

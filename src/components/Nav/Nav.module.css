@@ -1,0 +1,43 @@
+.nav {
+     grid-area: nav;
+     background-color: grey;
+
+}
+
+.item{
+     color:white;
+     cursor: pointer;
+     text-decoration: none;
+     padding: 10px;
+}
+
+.friendsItem{
+     padding-top: 50px;
+}
+
+.friendsList{
+     padding: 10px;
+
+}
+
+.item a:link{
+     text-decoration: none;
+     color: white;
+     padding: 8px;
+}
+
+.item a:visited{
+     text-decoration: none;
+     color: white;
+
+}
+
+.item a:hover{
+     color:greenyellow;
+
+}
+
+.item a.active{ 
+     text-decoration: underline;
+
+}
